@@ -4,5 +4,5 @@
 
 A analysis project which includes data visualization/EDA analysis and machine learning method(logistic regression,KNN,Random Forest and GBM) to predict if individuals will leave the organization.
 
-# machine-learning-project
+# Machine Learning Project
 
