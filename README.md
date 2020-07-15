@@ -6,4 +6,4 @@ A analysis project which includes data visualization/EDA analysis and machine le
 
 # Machine Learning Project
 
-### 1.Covid-19 image
+### 1.[Covid-19 Xray images Analysis](https://github.com/JM3309/Projects/tree/master/Covid-19_Xray_plot_Analysis)
