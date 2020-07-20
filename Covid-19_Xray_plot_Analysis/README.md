@@ -23,6 +23,7 @@ The Resnet50 model performs better than VGG16.
 
 ## datasets：
 The dataset comes from kaggle data which includes 3 types of X-ray images covid-19,normal and viral pneumonia. 
-[covid-19/Viral Pneumonia/Normal images](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database?select=COVID-19+Radiography+Database)
+
+[covid-19/Viral Pneumonia/Normal images data source](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database?select=COVID-19+Radiography+Database)
 
 
