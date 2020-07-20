@@ -1,6 +1,6 @@
 
 
-# Covid-19 Xray Images Analysis and Prediction Project
+# Covid-19 X-ray Images Analysis and Prediction Project
 
 This project includes 5 parts:
 
