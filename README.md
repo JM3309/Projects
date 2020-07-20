@@ -7,3 +7,4 @@ A analysis project which includes data visualization/EDA analysis and machine le
 # Machine Learning Project
 
 ### 1.[Covid-19 Xray images Analysis](https://github.com/JM3309/Projects/tree/master/Covid-19_Xray_plot_Analysis)
+A CNN classification project by using Resnet50 and VGG16 model to predict if the X-Ray image is a normal, viral pneumonia or COVID-19 image.
