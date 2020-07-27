@@ -6,7 +6,7 @@ An analysis project which includes data visualization/EDA analysis and machine l
 
 
 ### 2.[Motor Vehicle Collisions in New York City](https://github.com/JM3309/Projects/tree/master/Motor_Vehicle_Collisions_in_New_York_City)
-An analysis project mainly focus on using streamlit to create a analysis dashboard to analyze the motor vehicle collisions in New York City. It includes prepoccessing data and data analysis 2 parts.
+An analysis project mainly focus on using **streamlit** to create a analysis dashboard to analyze the motor vehicle collisions in New York City. It includes prepoccessing data and data analysis 2 parts.
 
 # Machine Learning /Deep Learning Project
 
