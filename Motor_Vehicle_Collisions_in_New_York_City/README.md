@@ -3,14 +3,8 @@
 
 
 
-This is a Motor Vehicle Collisions' dataset created by ....
-
-The first part will prepocessing the data and attempt to identify trends and patterns.I'll do some visualization and EDA analysis to uncover the factors that lead to employee attrition.(part2 & part3)
-
-The second part is using several machine learning techniques to identify the individuals that are more likely to leave the organization.(part4)
-
-## model:
-* 
+This is a Motor Vehicle Collisions' dataset created by NYPD. By using **streamlit** to create a dashboard  to analysis the motor vehicle collisions in New York City.
 
 ## data source:
 
+[Link](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
