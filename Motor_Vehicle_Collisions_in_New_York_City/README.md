@@ -7,6 +7,7 @@ This is a Motor Vehicle Collisions' dataset created by NYPD. By using **streamli
 
 ## data source:
 
+The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. 
 [Link](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 
 ## dashboard sample
