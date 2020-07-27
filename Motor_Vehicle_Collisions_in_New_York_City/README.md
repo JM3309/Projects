@@ -11,4 +11,6 @@ The Motor Vehicle Collisions crash table contains details on the crash event. Ea
 [Link](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 
 ## dashboard sample
+
+This plot is a 3-D mapplot to the number of collisions occur during a given time of day
 ![dashboard sample](https://github.com/JM3309/Projects/blob/master/Motor_Vehicle_Collisions_in_New_York_City/mapplot.png)
