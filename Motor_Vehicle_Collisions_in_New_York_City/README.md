@@ -9,4 +9,5 @@ This is a Motor Vehicle Collisions' dataset created by NYPD. By using **streamli
 
 [Link](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 
+## dashboard sample
 ![dashboard sample](https://github.com/JM3309/Projects/blob/master/Motor_Vehicle_Collisions_in_New_York_City/mapplot.png)
