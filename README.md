@@ -12,3 +12,6 @@ An analysis project mainly focus on using **streamlit** to create a analysis das
 
 ### 1.[Covid-19 X-ray Image Analysis and Prediction](https://github.com/JM3309/Projects/tree/master/Covid-19_Xray_plot_Analysis)
 A CNN classification project by using **Resnet50 and VGG16** model to predict if the patients' X-Ray image is a normal, viral pneumonia or COVID-19 image.
+
+### 2. [Identifying and Categorizing Offensive Language in Social Media](https://github.com/JM3309/cs_576/tree/master/projects)
+A NLP classification project using **GRU,Bi-LSTM and BERT** model to identify the offensive language on twitter.This project is based on the SEMEVAL 2019 TASK6. From the results we propose BERT as our recommended approach, given its higher macro F1-score of 81.73 percent and accuracy of 86.18 percent.
