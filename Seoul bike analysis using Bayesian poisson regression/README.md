@@ -13,4 +13,4 @@ For the simplicity and convergence, we should choose mean zero normal prior with
 ## [Paper](_)
 
 ## Data source:
-https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
+[Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
