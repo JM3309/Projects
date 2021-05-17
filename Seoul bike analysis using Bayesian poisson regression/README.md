@@ -12,5 +12,5 @@ For the simplicity and convergence, we should choose mean zero normal prior with
 
 ## [Paper](_)
 
-## Data source:
+## [Data source](https://github.com/JM3309/Projects/blob/master/Seoul%20bike%20analysis%20using%20Bayesian%20poisson%20regression/SeoulBikeData.csv):
 [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
