@@ -9,7 +9,7 @@ An analysis project which includes data visualization/EDA analysis and machine l
 An analysis project mainly focus on using **streamlit** to create a analysis dashboard to analyze the motor vehicle collisions in New York City. It includes prepoccessing data and data analysis 2 parts.
 
 ### 3.[Seoul bike analysis using Bayesian poisson regression](https://github.com/JM3309/Projects/tree/master/Seoul%20bike%20analysis%20using%20Bayesian%20poisson%20regression)
-An analysis project using Bayesian methods to find the posterior distribution of the coefficients.We will try to discover how different priors on β will affect the posterior distribution.We suggest three priors, **a flat prior, a normal prior with Inverse-Gamma variance, and a normal prior with Half-Cauchy vairance**. 
+An analysis project using **Bayesian methods** to find the posterior distribution of the coefficients.We will try to discover how different priors on β will affect the posterior distribution.We suggest three priors, **a flat prior, a normal prior with Inverse-Gamma variance, and a normal prior with Half-Cauchy vairance**. 
 
 # Machine Learning /Deep Learning Project
 
